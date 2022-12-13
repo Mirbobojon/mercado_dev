@@ -1,0 +1,264 @@
+---------------------------
+stdClass Object
+(
+    [source_id] => cnon:CBASEC7oTJN56meH2UbroawDZLs
+    [idempotency_key] => 636b15c340292
+    [amount_money] => stdClass Object
+        (
+            [amount] => 110480
+            [currency] => JPY
+        )
+
+    [location_id] => L9PS7Y0F82N8F
+    [autocomplete] => 1
+)
+
+---------------------------
+stdClass Object
+(
+    [payment] => stdClass Object
+        (
+            [id] => zLRkMSALwbujyPSp4xVyFUSHeVFZY
+            [created_at] => 2022-11-09T02:51:47.262Z
+            [updated_at] => 2022-11-09T02:51:47.497Z
+            [amount_money] => stdClass Object
+                (
+                    [amount] => 110480
+                    [currency] => JPY
+                )
+
+            [status] => COMPLETED
+            [delay_duration] => PT168H
+            [source_type] => CARD
+            [card_details] => stdClass Object
+                (
+                    [status] => CAPTURED
+                    [card] => stdClass Object
+                        (
+                            [card_brand] => VISA
+                            [last_4] => 1111
+                            [exp_month] => 11
+                            [exp_year] => 2022
+                            [fingerprint] => sq-1-wRFEQfXOo5DFRCC9P4nRFAFDWbiMUH4tryrtW8ZISfXlsvNdHEllP1z8PTNWQBp5_A
+                            [card_type] => CREDIT
+                            [prepaid_type] => NOT_PREPAID
+                            [bin] => 411111
+                        )
+
+                    [entry_method] => KEYED
+                    [cvv_status] => CVV_ACCEPTED
+                    [avs_status] => AVS_ACCEPTED
+                    [statement_description] => SQ *DEFAULT TEST ACCOUNT
+                    [card_payment_timeline] => stdClass Object
+                        (
+                            [authorized_at] => 2022-11-09T02:51:47.374Z
+                            [captured_at] => 2022-11-09T02:51:47.497Z
+                        )
+
+                )
+
+            [location_id] => L9PS7Y0F82N8F
+            [order_id] => 3Giozfd3tl9rqMykchCKgMiNBFVZY
+            [total_money] => stdClass Object
+                (
+                    [amount] => 110480
+                    [currency] => JPY
+                )
+
+            [approved_money] => stdClass Object
+                (
+                    [amount] => 110480
+                    [currency] => JPY
+                )
+
+            [receipt_number] => zLRk
+            [receipt_url] => https://squareupsandbox.com/receipt/preview/zLRkMSALwbujyPSp4xVyFUSHeVFZY
+            [delay_action] => CANCEL
+            [delayed_until] => 2022-11-16T02:51:47.262Z
+            [application_details] => stdClass Object
+                (
+                    [square_product] => ECOMMERCE_API
+                    [application_id] => sandbox-sq0idb-TX7Er3KW4cxyfAUBzxznIw
+                )
+
+            [version_token] => lpDBd8Bk1S3FlRtyOta40cnPktsNayelDjyafQEvbar6o
+        )
+
+)
+
+---------------------------
+stdClass Object
+(
+    [source_id] => cnon:CBASEDhCyThKvA__BuqNsUb06X0
+    [idempotency_key] => 636b16c496265
+    [amount_money] => stdClass Object
+        (
+            [amount] => 11498
+            [currency] => JPY
+        )
+
+    [location_id] => L9PS7Y0F82N8F
+    [autocomplete] => 1
+)
+
+---------------------------
+stdClass Object
+(
+    [payment] => stdClass Object
+        (
+            [id] => zfHumeAQmvkfaO6uoIpiIwvXPlLZY
+            [created_at] => 2022-11-09T02:56:04.446Z
+            [updated_at] => 2022-11-09T02:56:04.674Z
+            [amount_money] => stdClass Object
+                (
+                    [amount] => 11498
+                    [currency] => JPY
+                )
+
+            [status] => COMPLETED
+            [delay_duration] => PT168H
+            [source_type] => CARD
+            [card_details] => stdClass Object
+                (
+                    [status] => CAPTURED
+                    [card] => stdClass Object
+                        (
+                            [card_brand] => VISA
+                            [last_4] => 1111
+                            [exp_month] => 11
+                            [exp_year] => 2022
+                            [fingerprint] => sq-1-wRFEQfXOo5DFRCC9P4nRFAFDWbiMUH4tryrtW8ZISfXlsvNdHEllP1z8PTNWQBp5_A
+                            [card_type] => CREDIT
+                            [prepaid_type] => NOT_PREPAID
+                            [bin] => 411111
+                        )
+
+                    [entry_method] => KEYED
+                    [cvv_status] => CVV_ACCEPTED
+                    [avs_status] => AVS_ACCEPTED
+                    [statement_description] => SQ *DEFAULT TEST ACCOUNT
+                    [card_payment_timeline] => stdClass Object
+                        (
+                            [authorized_at] => 2022-11-09T02:56:04.554Z
+                            [captured_at] => 2022-11-09T02:56:04.674Z
+                        )
+
+                )
+
+            [location_id] => L9PS7Y0F82N8F
+            [order_id] => dhQtDVuSddgBLQSC4W76QXdp6ADZY
+            [total_money] => stdClass Object
+                (
+                    [amount] => 11498
+                    [currency] => JPY
+                )
+
+            [approved_money] => stdClass Object
+                (
+                    [amount] => 11498
+                    [currency] => JPY
+                )
+
+            [receipt_number] => zfHu
+            [receipt_url] => https://squareupsandbox.com/receipt/preview/zfHumeAQmvkfaO6uoIpiIwvXPlLZY
+            [delay_action] => CANCEL
+            [delayed_until] => 2022-11-16T02:56:04.446Z
+            [application_details] => stdClass Object
+                (
+                    [square_product] => ECOMMERCE_API
+                    [application_id] => sandbox-sq0idb-TX7Er3KW4cxyfAUBzxznIw
+                )
+
+            [version_token] => CiTFxET6b4BxsZzfHWQqG7JNWZGc1zJogpILAHCZgRd6o
+        )
+
+)
+
+---------------------------
+stdClass Object
+(
+    [source_id] => cnon:CBASEJiNMbNQX_WjA4zXhkZqYxs
+    [idempotency_key] => 636b16e2eb7ad
+    [amount_money] => stdClass Object
+        (
+            [amount] => 13498
+            [currency] => JPY
+        )
+
+    [location_id] => L9PS7Y0F82N8F
+    [autocomplete] => 1
+)
+
+---------------------------
+stdClass Object
+(
+    [payment] => stdClass Object
+        (
+            [id] => Fsft0gs8gr6VkEOKGgpkwqPfHB7YY
+            [created_at] => 2022-11-09T02:56:34.677Z
+            [updated_at] => 2022-11-09T02:56:34.904Z
+            [amount_money] => stdClass Object
+                (
+                    [amount] => 13498
+                    [currency] => JPY
+                )
+
+            [status] => COMPLETED
+            [delay_duration] => PT168H
+            [source_type] => CARD
+            [card_details] => stdClass Object
+                (
+                    [status] => CAPTURED
+                    [card] => stdClass Object
+                        (
+                            [card_brand] => VISA
+                            [last_4] => 1111
+                            [exp_month] => 11
+                            [exp_year] => 2022
+                            [fingerprint] => sq-1-wRFEQfXOo5DFRCC9P4nRFAFDWbiMUH4tryrtW8ZISfXlsvNdHEllP1z8PTNWQBp5_A
+                            [card_type] => CREDIT
+                            [prepaid_type] => NOT_PREPAID
+                            [bin] => 411111
+                        )
+
+                    [entry_method] => KEYED
+                    [cvv_status] => CVV_ACCEPTED
+                    [avs_status] => AVS_ACCEPTED
+                    [statement_description] => SQ *DEFAULT TEST ACCOUNT
+                    [card_payment_timeline] => stdClass Object
+                        (
+                            [authorized_at] => 2022-11-09T02:56:34.784Z
+                            [captured_at] => 2022-11-09T02:56:34.904Z
+                        )
+
+                )
+
+            [location_id] => L9PS7Y0F82N8F
+            [order_id] => h3oaAm8B4yfU0PmJMWoSDo91biIZY
+            [total_money] => stdClass Object
+                (
+                    [amount] => 13498
+                    [currency] => JPY
+                )
+
+            [approved_money] => stdClass Object
+                (
+                    [amount] => 13498
+                    [currency] => JPY
+                )
+
+            [receipt_number] => Fsft
+            [receipt_url] => https://squareupsandbox.com/receipt/preview/Fsft0gs8gr6VkEOKGgpkwqPfHB7YY
+            [delay_action] => CANCEL
+            [delayed_until] => 2022-11-16T02:56:34.677Z
+            [application_details] => stdClass Object
+                (
+                    [square_product] => ECOMMERCE_API
+                    [application_id] => sandbox-sq0idb-TX7Er3KW4cxyfAUBzxznIw
+                )
+
+            [version_token] => 5617KWgXcg9THx89i3GZIS3ZBRa19zt6Ka0Lz9edTHc6o
+        )
+
+)
+
